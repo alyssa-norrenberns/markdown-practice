@@ -1,2 +1,7 @@
-# markdown-practice
-## testing for changes
+# Cool and Fun Animals
+**This project will include information and pictures about animals I find interesting. Emjoy!**
+
+List of animals:
+- Geese
+- Spiders
+- Jellyfish?

@@ -18,10 +18,10 @@
 
 > "Sharks have personality, just like you and I" - Félicie Dhellemmes
 
-- sharks are not the "cold-blooded killers" the media has portrayed them to be
-- there have been studies showing differences in behavior among shark species: some are said to be "curious and confident", while some are described as "timid and sensitive"
-- there are behavioral differences even within the same shark species, indicating sharks have unique, individual personalities and temperment!
-- for more info, read [Exploring Personality in Sharks](https://saveourseasmagazine.com/exploring-personality-sharks/#:~:text=Most%20people%20think%20of%20sharks,hammerheads%20are%20timid%20and%20sensitive.)
+- Sharks are not the "cold-blooded killers" the media has portrayed them to be.
+- There have been studies showing differences in behavior among shark species: some species are said to be "curious and confident", while other species are described as "timid and sensitive".
+- Researchers have documented behavioral differences even within the same shark species, indicating sharks have unique, individual personalities and temperment!
+- For more info, read [Exploring Personality in Sharks](https://saveourseasmagazine.com/exploring-personality-sharks/#:~:text=Most%20people%20think%20of%20sharks,hammerheads%20are%20timid%20and%20sensitive.) by shark researcher Félicie Dhellemmes. 
 
 ## Shark Species
 

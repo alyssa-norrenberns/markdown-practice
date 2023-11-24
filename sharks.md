@@ -42,7 +42,7 @@ Return to README.md (add link later!)
 | ----------- | ----------- |
 | Basking Shark | Basking sharks are 1 of only 3 filter-feeding sharks, one of the others being whale sharks. They can filter 3,000 cubic meters of water in an hour (the size of an Olympic swimming pool!).|  
 <!-- pic of basking shark -->
-![Basking shark](https://www.abpmer.co.uk/media/3546/basking-shark-sennen-760x660.jpg "Basking shark")  
+![Basking shark](https://upload.wikimedia.org/wikipedia/commons/0/0b/Cetorhinus_maximus_by_greg_skomal.JPG "Basking shark")  
 *Pictured above: Basking shark in the ocean*  
 
 | Species | Fun Fact |

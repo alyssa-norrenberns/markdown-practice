@@ -25,7 +25,7 @@
 
 ## Shark Species
 
-**There are countless shark species across the Earth's oceans. Here are a few of my favorites.**
+**There are countless shark species across the Earth's oceans. Here are some I find fascinating.**
 
 
 | Species | Fun Fact |
@@ -41,4 +41,11 @@
 | Basking Shark | Basking sharks are 1 of only 3 filter-feeding sharks. They can filter 3,000 cubic meters of water in an hour (the size of an Olympic swimming pool!).|  
 <!-- pic of basking shark -->
 ![Basking shark](https://www.abpmer.co.uk/media/3546/basking-shark-sennen-760x660.jpg "Basking shark")  
-*Pictured above: Basking shark in the ocean*
+*Pictured above: Basking shark in the ocean*  
+
+| Species | Fun Fact |
+| ----------- | ----------- |
+| Ornate Wobbegong| Ornate wobbegong sharks are nocturnal carpet sharks that live in the western Pacific Ocean. They use their coral-like body coloration to ambush prey. |   
+
+![Ornate wobbegong shark](https://media.australian.museum/media/dd/images/Gulf_Wobbegong_Orectolobus_halei.67a10db.width-1600.f86546e.jpg "Ornate wobbegong shark")  
+*Pictured above: Ornate wobbegong lying on coral*

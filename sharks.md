@@ -14,13 +14,14 @@
 ## Shark Behavior  
 
 <!-- pic of playful shark -->
-![Shark getting a belly rub](https://i2-prod.mirror.co.uk/incoming/article5789643.ece/ALTERNATES/s1200d/Shark-gets-a-belly-rub.jpg "Shark getting a belly rub")
+![Shark getting a belly rub](https://i2-prod.mirror.co.uk/incoming/article5789643.ece/ALTERNATES/s1200d/Shark-gets-a-belly-rub.jpg "Shark getting a belly rub")  
+*Pictured above: Shark getting a belly rub*
 
 > "Sharks have personality, just like you and I" - Félicie Dhellemmes
 
 - Sharks are not the "cold-blooded killers" the media has portrayed them to be.
 - There have been studies showing differences in behavior among shark species: some species are said to be "curious and confident", while other species are described as "timid and sensitive".
-- Researchers have documented behavioral differences even within the same shark species, indicating sharks have unique, individual personalities and temperment!
+- Researchers have documented behavioral differences even within the same shark species, indicating sharks have unique, individual personalities and temperament!
 - For more info, read [Exploring Personality in Sharks](https://saveourseasmagazine.com/exploring-personality-sharks/#:~:text=Most%20people%20think%20of%20sharks,hammerheads%20are%20timid%20and%20sensitive.) by shark researcher Félicie Dhellemmes. 
 
 ## Shark Species

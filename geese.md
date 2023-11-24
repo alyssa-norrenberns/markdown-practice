@@ -1,5 +1,6 @@
-# Geese
-**This page will have information about geese**
+# Cephalapods
+
+**Cephalapod is a class of animals within the Mollusca phylum. Common examples include octopus, squid, cuttlefish, and nautilus.**
 
 [Return to README.md](https://github.com/alyssa-norrenberns/markdown-practice/blob/5a9c32d437ed79337be075023addf6a6ce435230/README.md)
 

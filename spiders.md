@@ -1,15 +1,18 @@
 # Spiders
+
 **This page will be about spiders**
 
 Return to README.md (add link later)
 
 ## Spiders in Folklore
+
 - talk about Jorōgumo: [link](https://en.wikipedia.org/wiki/Jor%C5%8Dgumo)
 
-## Ecological Importance of Spiders
-- spiders play an important role in maintaining insect populations!
+<!-- ## Ecological Importance of Spiders
+- spiders play an important role in maintaining insect populations! -->
 
 ## Spider Species  
+
 **Out of approximately 50,000 of spiders in the world, here a few that I think deserve more attention.**  
 
 | Species | Fun Fact |

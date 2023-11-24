@@ -7,9 +7,9 @@
 ![Sharks swimming above coral reef](https://cdn.balisharks.com/sharks_in_coral_reefs.jpg "Sharks swimming above coral reef")
 *Pictured above: Sharks swimming above coral reef*  
 
-- sharks are a VITAL part of healthy reefs
-- they are keystone species, meaning that their absence would have a huge impact on their environment (for the worse)
-- without sharks to keep prey populations in check, there would be devasting effects on marine ecosystems  
+- Sharks are a **vital** part of healthy reefs.
+- They are a keystone species, meaning that their absence would have a huge impact on their environment.
+- Without sharks to keep prey populations in check, there would be devasting effects on marine ecosystems. 
 
 ## Shark Behavior  
 

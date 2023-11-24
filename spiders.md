@@ -14,7 +14,7 @@ Return to README.md (add link later)
 
 | Species | Fun Fact |
 | ----------- | ----------- |
-| Black-and-Yellow Garden Spider | Black-and-yellow garden spiders are commonly found across Missouri. They help control population of "pest" insects, much to the appreciation of gardeners. |  
+| Black-and-Yellow Garden Spider | Black-and-yellow garden spiders are commonly found across Missouri. They help control population of insects deemed as "pests", much to the appreciation of gardeners. |  
 
 ![Black-and-yellow garden spider](https://www.news-leader.com/gcdn/-mm-/f45fc47be5acc085aa35b8b5f464439f6cb634a9/c=0-114-2250-1385/local/-/media/2016/10/03/Springfield/Springfield/636110953238628120-Yellow-Garden-Spider-0273.jpg "Black-and-Yellow Garden Spider")  
 *Pictured above: Black-and-yellow garden spider on its web*

@@ -32,7 +32,7 @@ Return to README.md (add link later!)
 
 | Species | Fun Fact |
 | ----------- | ----------- |
-| Whale Shark | Whale sharks are the largest sharks (and fish) currently alive in the world. They feed primarily on plankton and fish. Young whale sharks can eat up to 45 pounds of plankton per day. |  
+| Whale Shark | Whale sharks are the largest sharks (and fish) currently alive in the world. They feed on plankton as well as small fish/crustaceans. Young whale sharks can eat up to 45 pounds of plankton per day. |  
 <!-- pic of whale shark -->
 ![Whale shark](https://parade.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkyMDA2MTQzODY4OTM3OTM0/children-and-parents-are-dwarfed-by-a-wh.jpg "Whale shark at Georgia aquarium")  
 *Pictured above: Whale shark at Georgia aquarium*
@@ -40,14 +40,14 @@ Return to README.md (add link later!)
 
 | Species | Fun Fact |
 | ----------- | ----------- |
-| Basking Shark | Basking sharks are 1 of only 3 filter-feeding sharks, the others being whale sharks and megamouth sharks. They can filter 3,000 cubic meters of water in an hour (the size of an Olympic swimming pool!).|  
+| Basking Shark | Basking sharks are 1 of only 3 filter-feeding sharks, one of the others being whale sharks. They can filter 3,000 cubic meters of water in an hour (the size of an Olympic swimming pool!).|  
 <!-- pic of basking shark -->
 ![Basking shark](https://www.abpmer.co.uk/media/3546/basking-shark-sennen-760x660.jpg "Basking shark")  
 *Pictured above: Basking shark in the ocean*  
 
 | Species | Fun Fact |
 | ----------- | ----------- |
-| Ornate Wobbegong| Ornate wobbegong sharks are nocturnal carpet sharks that live in the western Pacific Ocean. They use their coral-like body coloration to ambush prey. |   
+| Ornate Wobbegong| Ornate wobbegong sharks are nocturnal carpet sharks that live in the western Pacific Ocean. They use their coral-like body coloration to blend in with reefs and ambush prey. |   
 
 ![Ornate wobbegong shark](https://media.australian.museum/media/dd/images/Gulf_Wobbegong_Orectolobus_halei.67a10db.width-1600.f86546e.jpg "Ornate wobbegong shark")  
 *Pictured above: Ornate wobbegong lying on coral*

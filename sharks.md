@@ -7,7 +7,6 @@ Return to README.md (add link later!)
 ## Ecological Importance of Sharks  
 
 ![Shark swimming above coral reef](https://cff2.earth.com/uploads/2023/01/19054246/Reef-shark-scaled.jpg "Shark swimming above coral reef")
-
 *Pictured above: Shark swimming above coral reef*  
 
 - Sharks are a ***vital*** part of healthy reefs.

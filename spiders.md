@@ -6,10 +6,17 @@ Return to README.md (add link later)
 
 ## Spiders in Folklore
 
-- talk about Jorōgumo: [link](https://en.wikipedia.org/wiki/Jor%C5%8Dgumo)
+- Spiders are the inspiration for creatures in Japanese folklore called Jorōgumo.
 
-<!-- ## Ecological Importance of Spiders
-- spiders play an important role in maintaining insect populations! -->
+- Jorōgumo are said to shapeshift from a spider into a beautiful woman. 
+
+- The word Jorōgumo can also refer to some species of Japanese spiders.
+
+### A Jorōgumo Story
+
+One story is provided below. For additional stories, check out the [Jorōgumo wikipedia page](https://en.wikipedia.org/wiki/Jor%C5%8Dgumo).
+
+>  **"How Magoroku Was Deceived by a Jorōgumo"** relates the story of Magoroku dozing in his veranda in Takada, Sakushu (now Okayama Prefecture). As he was about to doze off, a woman in her 50s appeared. She said that her daughter had taken a fancy to Magoroku and invited him to her estate. There, a 16- or 17-year-old girl asked him to marry her. Already married, he declined, but the girl persisted. She claimed that he had almost killed her mother two days before, and yet she still visited him, and surely he could not let her feelings come to nothing. Bewildered, Magoroku fled. The house disappeared as he ran and he found himself back on his own porch. Magoroku's wife then assured him that he had been sleeping on the veranda the whole time. Concluding it was only a dream, Magoroku looked around and noticed a small jorō spider that had made a tight web around the eaves. Relieved, he recalled how he drove away a spider two days before.
 
 ## Spider Species  
 

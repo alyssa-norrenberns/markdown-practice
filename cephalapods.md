@@ -40,7 +40,7 @@ Cephalapod is the term for a class of animals within the Mollusca phylum. Common
 
 | Species | Fun Fact |
 | :-----------: | :-----------: |
-| Cuttlefish | Cuttlefish are known for their amazing color-changing abilities. There are records of them changing colors while hunting to "hypnotise" their prey before striking. More social than most other cephalapods, they also use color patterns to communicate with other cuttlefish. Researchers believe how cuttlefish change their skin patterns can tell us how they perceive visual information. [Learn about biologist Sarah Zylinski's research!](https://youtu.be/SfkhEm3LfvE?si=7PKRSkK_gJ4L7Ev6&t=100) |  
+| Cuttlefish | Cuttlefish are known for their amazing color-changing abilities. There are records of them changing colors while hunting to "hypnotise" their prey before striking. More social than most other cephalapods, they also use color patterns to communicate with other cuttlefish. Researchers believe how cuttlefish change their skin patterns can tell us how they perceive visual information. [Learn about biologist Sarah Zylinski's cuttlefish research!](https://youtu.be/SfkhEm3LfvE?si=7PKRSkK_gJ4L7Ev6&t=100) |  
 
 ![Cuttlefish interaction](https://static01.nyt.com/images/2021/07/06/science/00SCI-CUTTLEFISH4b-promo/00SCI-CUTTLEFISH4b-promo-videoSixteenByNine3000-v2.jpg?year=2021&h=1685&w=3000&s=5defebfbcf11ca8213daa36f8ed14c9c0f9851e5caf60838242fada0589baafb&k=ZQJBKqZ0VN&tw=1 "Cuttlefish interaction")  
 *Pictured above: Cuttlefish interacting with another cuttlefish*

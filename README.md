@@ -1,7 +1,8 @@
 # Cool and Fun Animals
 
-This project will include information and pictures about animals I find interesting.  
-Images and other content are sourced from the internet (references included).
+This project will include information and pictures about animals I find interesting. 
+
+Note: images and other content are sourced from the internet (references included).
 
 ## Sharks
 

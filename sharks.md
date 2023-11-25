@@ -44,14 +44,14 @@ Return to README.md (add link later!)
 
 
 | Species | Fun Fact |
-| ----------- | ----------- |
+| :-----------: | :-----------: |
 | Basking Shark | Basking sharks are 1 of only 3 filter-feeding sharks, one of the others being whale sharks. They can filter 3,000 cubic meters of water in an hour (the size of an Olympic swimming pool!).| 
 
 ![Basking shark](https://upload.wikimedia.org/wikipedia/commons/0/0b/Cetorhinus_maximus_by_greg_skomal.JPG "Basking shark")  
 *Pictured above: Basking shark in the ocean*  
 
 | Species | Fun Fact |
-| ----------- | ----------- |
+| :-----------: | :-----------: |
 | Ornate Wobbegong| Ornate wobbegong sharks are nocturnal carpet sharks that live in the western Pacific Ocean. They use their coral-like body coloration to blend in with reefs and ambush prey. |   
 
 ![Ornate wobbegong shark](https://media.australian.museum/media/dd/images/Gulf_Wobbegong_Orectolobus_halei.67a10db.width-1600.f86546e.jpg "Ornate wobbegong shark")  

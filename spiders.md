@@ -1,6 +1,6 @@
 # Spiders
 
-**This page will be about spiders**
+**This page will explore spiders in folklore and different spider species.**
 
 Return to README.md (add link later)
 

@@ -2,10 +2,10 @@
 
 **This project will include information and pictures about animals I find interesting. Use the links in the table below to navigate.** 
 
-| Navigation Links |
-| :---: |
-| [Sharks]() | 
-| [Spiders]() |
+| Page Name | Page description |
+| :---: | :---: |
+| [Sharks]() | Learn about different shark species, the role sharks play in their ecosystems, and shark behavior |
+| [Spiders]() | Learn about spiders in folklore and different spider species |
 
 For this page, here are some of my favorite flowers native to Missouri. Enjoy!
 

@@ -9,6 +9,7 @@ Cephalapod is the term for a class of animals within the Mollusca phylum. Common
 ## Masters of Disguise
 
 ![Octopus in camoflage](https://themitpost.com/wp-content/uploads/2020/06/octopus-camouflage.jpg "Octopus in camoflage")
+
 *Pictured above: Octopus in various stages of camoflage*
 
 * Cephalapods are soft-bodied animals, so many of them use camoflage techniques to protect themselves from predators.
@@ -32,7 +33,7 @@ Cephalapod is the term for a class of animals within the Mollusca phylum. Common
 
 | Species | Fun Fact |
 | :-----------: | :-----------: |
-| Vampire Squid | It's scientific name means "vampire squid from hell", but the vampire squid not actually a squid - it has its own unique class (Vampyroteuthidae). These cephalapods live at depths of up to 3000 feet with no sunlight and little oxygen. They are capable of bioluminescence at will with light producing organs called photophores. |  
+| Vampire Squid | It's scientific name means "vampire squid from hell", but the vampire squid not actually a squid - it has its own unique class (Vampyroteuthidae). These cephalapods live at depths of up to 3000 feet with no sunlight and little oxygen. They are capable of bioluminescence at will with light producing organs called *photophores*. |  
 
 ![Vampire Squid](https://i.imgur.com/DIpcwL3.gif "Vampire Squid")  
 *Pictured above: Vampire squid glowing with bioluminescence*

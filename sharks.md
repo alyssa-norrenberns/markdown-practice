@@ -36,7 +36,7 @@ Return to README.md (add link later!)
 
 
 | Species | Fun Fact |
-| ----------- | ----------- |
+| :-----------: | :-----------: |
 | Whale Shark | Whale sharks are the largest sharks (and fish) currently alive in the world. They feed on plankton as well as small fish/crustaceans. Young whale sharks can eat up to 45 pounds of plankton per day. |  
 
 ![Whale shark](https://parade.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkyMDA2MTQzODY4OTM3OTM0/children-and-parents-are-dwarfed-by-a-wh.jpg "Whale shark at Georgia aquarium")  

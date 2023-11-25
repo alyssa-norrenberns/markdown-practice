@@ -1,6 +1,6 @@
 # Cool and Fun Animals
 
-This project will include information and pictures about animals I find interesting.
+This project will include information and pictures about animals I find interesting. Images and other content are sourced from the internet!
 
 ## Sharks
 

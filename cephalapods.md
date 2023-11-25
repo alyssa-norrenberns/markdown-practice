@@ -44,3 +44,41 @@ Cephalapod is the term for a class of animals within the Mollusca phylum. Common
 
 ![Cuttlefish interaction](https://static01.nyt.com/images/2021/07/06/science/00SCI-CUTTLEFISH4b-promo/00SCI-CUTTLEFISH4b-promo-videoSixteenByNine3000-v2.jpg?year=2021&h=1685&w=3000&s=5defebfbcf11ca8213daa36f8ed14c9c0f9851e5caf60838242fada0589baafb&k=ZQJBKqZ0VN&tw=1 "Cuttlefish interaction")  
 *Pictured above: Cuttlefish interacting with another cuttlefish*
+
+## References
+
+**Masters of Disguise**
+
+* https://www.scientificamerican.com/article/how-do-squid-and-octopuse/
+
+* https://www.nature.com/scitable/topicpage/cephalopod-camouflage-cells-and-organs-of-the-144048968/
+
+* https://ocean.si.edu/ocean-life/invertebrates/how-octopuses-and-squids-change-color#:~:text=They%20can%20change%20not%20only,small%20bumps%20to%20tall%20spikes.
+
+**Flapjack Octopus**
+
+* https://octonation.com/flap-jack-octopus-facts/#:~:text=They%20stay%20near%20the%20seafloor,their%20home%20in%20these%20depths
+
+* https://en.wikipedia.org/wiki/Opisthoteuthis_californiana
+
+* https://oceana.org/marine-life/dumbo-octopus/
+
+**Vampire Squid**
+
+* https://www.thoughtco.com/vampire-squid-4164694
+
+* https://en.wikipedia.org/wiki/Vampire_squid
+
+* https://www.aquariumofpacific.org/onlinelearningcenter/species/vampire_squid
+
+* https://ocean.si.edu/ocean-life/invertebrates/vampire-squid-hell
+
+**Cuttlefish**
+
+* https://www.discovermagazine.com/planet-earth/cuttlefish-use-vision-rather-than-touch-to-mimic-textures
+
+* https://www.sciencefocus.com/nature/everything-you-wanted-to-know-about-cuttlefish
+
+* https://en.wikipedia.org/wiki/Cuttlefish
+
+* https://ocean.si.edu/ocean-life/invertebrates/common-cuttlefish#:~:text=Unlike%20other%20cephalopod%20species%2C%20cuttlefish,and%20why%20scientists%20study%20cuttlefish%20

@@ -42,3 +42,29 @@ One story is provided below. For additional stories, check out the [Jorōgumo wi
 
 ![Jumping Spider (Bagheera kiplingi)](https://waynemaddison.files.wordpress.com/2014/02/bagheerafemaleimgp9427.jpg "Jumping Spider (Bagheera kiplingi)")  
 *Pictured above: Bagheera kiplingi jumping spider*
+
+## References
+
+**Spiders in Folklore**
+
+* https://en.wikipedia.org/wiki/Jor%C5%8Dgumo
+
+**Black-and-Yellow Garden Spider**
+
+* https://mdc.mo.gov/discover-nature/field-guide/black-yellow-garden-spider#:~:text=The%20black%2Dand%2Dyellow%20garden,the%20top%20of%20the%20abdomen
+
+* https://mdc.mo.gov/blogs/discover-nature-notes/itsy-bitsy-garden-spider
+
+**White-banded Crab Spider**
+
+* https://phys.org/news/2015-04-spider-species.html
+
+* https://mdc.mo.gov/discover-nature/field-guide/whitebanded-crab-spider
+
+**Jumping Spider (Bagheera kiplingi)**
+
+* https://en.wikipedia.org/wiki/Bagheera_kiplingi
+
+* https://en.wikipedia.org/wiki/Spider
+
+* https://www.britannica.com/animal/Bagheera-kiplingi

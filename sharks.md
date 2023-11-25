@@ -45,7 +45,7 @@
 
 | Species | Fun Fact |
 | :-----------: | :-----------: |
-| Basking Shark | Basking sharks are 1 of only 3 filter-feeding sharks, one of the others being whale sharks. They can filter 3,000 cubic meters of water in an hour (the size of an Olympic swimming pool!).| 
+| Basking Shark | Basking sharks are 1 of only 3 filter-feeding sharks, one of the others being whale sharks. They can filter 2,000 cubic meters of water in an hour (the size of an Olympic swimming pool!).| 
 
 ![Basking shark](https://upload.wikimedia.org/wikipedia/commons/0/0b/Cetorhinus_maximus_by_greg_skomal.JPG "Basking shark")  
 *Pictured above: Basking shark in the ocean*  
@@ -56,3 +56,39 @@
 
 ![Ornate wobbegong shark](https://media.australian.museum/media/dd/images/Gulf_Wobbegong_Orectolobus_halei.67a10db.width-1600.f86546e.jpg "Ornate wobbegong shark")  
 *Pictured above: Ornate wobbegong lying on coral*
+
+## References
+
+**Ecological Importance of Sharks**
+
+* https://oceanramsey.org/why-sharks#:~:text=Sharks%20are%20a%20keystone%20species,the%20health%20of%20marine%20ecosystems
+
+* https://www.gilisharkconservation.com/why-sharks-are-vital-to-our-ecosystem/
+
+**Shark Behavior**
+
+* https://saveourseasmagazine.com/exploring-personality-sharks/#:~:text=Most%20people%20think%20of%20sharks,hammerheads%20are%20timid%20and%20sensitive
+
+**Whale Shark**
+
+* https://www.worldwildlife.org/species/whale-shark
+
+* https://oceana.org/marine-life/whale-shark/
+
+* https://www.britannica.com/animal/whale-shark
+
+* https://www.galapagos.org/newsroom/whale-shark-study/#:~:text=Whale%20sharks%20are%20plankton%20patrollers,and%20the%20ecosystem%20is%20healthy
+
+**Basking Shark**
+
+* https://oceana.org/marine-life/basking-shark/
+
+* https://www.abpmer.co.uk/blog/10-things-you-might-not-know-about-basking-sharks-in-numbers/
+
+* https://oceana.org/marine-life/basking-shark/
+
+**Ornate Wobbegong**
+
+* https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/orectolobus-ornatus/
+
+* https://en.wikipedia.org/wiki/Ornate_wobbegong

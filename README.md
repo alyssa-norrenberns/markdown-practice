@@ -12,7 +12,7 @@ This project will include information and pictures about animals I find interest
 
 3. Different shark species and fun facts
 
-Interested? [Visit the shark page to learn more]().
+Interested? [Visit the shark page to learn more](sharks.md).
 
 ## Spiders
 
@@ -22,7 +22,7 @@ Interested? [Visit the shark page to learn more]().
 
 2. Different spider species and fun facts
 
-Interested? [Visit the spider page to learn more]().
+Interested? [Visit the spider page to learn more](spiders.md).
 
 <!-- | Page Name | Page description |
 | :---: | :---: |

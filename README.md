@@ -1,22 +1,36 @@
 # Cool and Fun Animals
 
-**This project will include information and pictures about animals I find interesting. Use the links in the table below to navigate.** 
+This project will include information and pictures about animals I find interesting.
 
-| Page Name | Page description |
+## Sharks
+
+**This page will include:**
+
+1. The roles sharks play in their ecosystems
+
+2. Shark behavior
+
+3. Different shark species and fun facts
+
+Interested? [Visit the shark page to learn more]().
+
+## Spiders
+
+**This page will include:**
+
+1. Spiders in folklore
+
+2. Different spider species and fun facts
+
+Interested? [Visit the spider page to learn more]().
+
+<!-- | Page Name | Page description |
 | :---: | :---: |
 | [Sharks]() | Learn about different shark species, the role sharks play in their ecosystems, and shark behavior |
-| [Spiders]() | Learn about spiders in folklore and different spider species |
+| [Spiders]() | Learn about spiders in folklore and different spider species | -->
 
-For this page, here are some of my favorite flowers native to Missouri. Enjoy!
+## That's all folks
+
+Thanks for visiting! Enjoy some of my favorite flowers native to Missouri.
 
 ![Missouri wildfowers](https://www.news-leader.com/gcdn/presto/2021/04/28/PSPR/bdfcc223-fabf-4380-b2f7-4e53bcb489ac-Purple_cone_wild_bergamot_royal_catchfly_false_sunflower_by_Scott_Woodbury.jpg?crop=3473,1954,x0,y377&width=3200&height=1801&format=pjpg&auto=webp "Missouri wildflowers")
-
-<!-- looks like the links are for the current version of that file only
-        will wait to update links for everyting until the end-->
-
-## Information on Cool and Fun Animals  
-
-Click on the links below to learn more!
-- [Cephalapods]()
-- [Sharks]()
-- [Spiders]()

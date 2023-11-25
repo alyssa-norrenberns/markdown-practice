@@ -1,14 +1,15 @@
 # Sharks
 
 **This page will talk about different shark species, the role sharks play in their ecosystems, and shark behavior.**  
+
 Return to README.md (add link later!)
 
 ## Ecological Importance of Sharks  
-<!-- pic of shark near reef -->
+
 ![Sharks swimming above coral reef](https://cdn.balisharks.com/sharks_in_coral_reefs.jpg "Sharks swimming above coral reef")
 *Pictured above: Sharks swimming above coral reef*  
 
-- Sharks are a **vital** part of healthy reefs.
+- Sharks are a ***vital*** part of healthy reefs.
 
 - They are a keystone species, meaning that their absence would have a huge impact on their environment.
 
@@ -16,7 +17,6 @@ Return to README.md (add link later!)
 
 ## Shark Behavior  
 
-<!-- pic of playful shark -->
 ![Shark getting a belly rub](https://i2-prod.mirror.co.uk/incoming/article5789643.ece/ALTERNATES/s1200d/Shark-gets-a-belly-rub.jpg "Shark getting a belly rub")  
 *Pictured above: Shark getting a belly rub*
 

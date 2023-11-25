@@ -8,8 +8,7 @@ Cephalapod is the term for a class of animals within the Mollusca phylum. Common
 
 ## Masters of Disguise
 
-![Octopus in camoflage](https://themitpost.com/wp-content/uploads/2020/06/octopus-camouflage.jpg "Octopus in camoflage")
-
+![Octopus in camoflage](https://themitpost.com/wp-content/uploads/2020/06/octopus-camouflage.jpg "Octopus in camoflage")  
 *Pictured above: Octopus in various stages of camoflage*
 
 * Cephalapods are soft-bodied animals, so many of them use camoflage techniques to protect themselves from predators.
@@ -49,7 +48,7 @@ Cephalapod is the term for a class of animals within the Mollusca phylum. Common
 
 **Masters of Disguise**
 
-* https://www.scientificamerican.com/article/how-do-squid-and-octopuse/
+[1]: https://www.scientificamerican.com/article/how-do-squid-and-octopuse/
 
 * https://www.nature.com/scitable/topicpage/cephalopod-camouflage-cells-and-organs-of-the-144048968/
 

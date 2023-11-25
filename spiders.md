@@ -2,7 +2,7 @@
 
 **This page will explore spiders in folklore and different spider species.**
 
-Return to README.md (add link later)
+[Return to README.md](README.md)
 
 ## Spiders in Folklore
 

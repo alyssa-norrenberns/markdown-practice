@@ -1,6 +1,8 @@
 # Cephalapods
 
-**Cephalapod is a class of animals within the Mollusca phylum. Common examples include octopus, squid, cuttlefish, and nautilus.**
+Cephalapod is the term for a class of animals within the Mollusca phylum. Common examples of cephalapods include octopus, squid, cuttlefish, and nautilus. 
+
+**This page will explore cephalapod camoflage techniques and different species of cephalapods.**
 
 [Return to README.md](README.md)
 

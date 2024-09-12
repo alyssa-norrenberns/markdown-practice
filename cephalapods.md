@@ -25,7 +25,7 @@ Cephalapod is the term for a class of animals within the Mollusca phylum. Common
 
 | Species | Fun Fact |
 | :-----------: | :-----------: |
-| Flapjack Octopus | The flapjack octopus  is a type of dumbo octopus. Dumbo octopus get their name from their fins, which resemble Disney's Dumbo the elephant's ears. They live in near the seafloor at depths up to 7,710 feet. [Watch them swim!](https://youtu.be/5ihBYwxEZLk?si=khu9xBFowt5hsCai) |  
+| Flapjack Octopus | The flapjack octopus  is a type of dumbo octopus. Dumbo octopus get their name from their fins, which resemble Disney's Dumbo the elephant's ears. They live near the seafloor at depths up to 7,710 feet. [Watch them swim!](https://youtu.be/5ihBYwxEZLk?si=khu9xBFowt5hsCai) |  
 
 ![Flapjack Octopus](https://allthatsinteresting.com/thumb/1200.633.https://allthatsinteresting.com/wordpress/wp-content/uploads/2020/07/descending-purple-dumbo-octopus.jpg "Flapjack Octopus")  
 *Pictured above: Flapjack octopus swimming along the seafloor*
